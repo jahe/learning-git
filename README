@@ -7,3 +7,5 @@ Hi from GitHub!
 Hi from forked Repo ヽ(´▽`)/ and ʕ•ᴥ•ʔ
 
 Hi from more-greetings branch!!!
+
+Oh, no... this line is getting removed by git reset --hard... hopefully we get it back with git reflog
